@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiyaodian
-- 👀 I’m interested in ai
-- 🌱 I’m currently learning llm, aigc
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning LLM AIGC etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
